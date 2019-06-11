@@ -8,8 +8,6 @@
 
 - 3bit는 특수권한에 사용
 
-  ![1558914417709](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1558914417709.png)
-
 Set-UID
 
 - set-uid 비트 : 8진수 4000
@@ -27,10 +25,6 @@ Set-UID
   3. 비트 설정 방법
 
      - 8진수(4000)이나 u+s를 이용하여 설정 가능(비트 제거시 u-s)
-
-       ![1558914861861](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1558914861861.png)
-
-       - 
 
 - 설정된 파일을 실행할 떄 파일의 소유자의 권한을 얻어 실행할 수 있도록 하는것
 
