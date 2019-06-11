@@ -76,7 +76,6 @@ fdisk
 blkid
 
 - 현재의 하드디스크의 파티션에 부여된 UUID의 값을 볼 수 있는 명령어
-- ![image-20190531223740127](/Users/shinkim/Library/Application Support/typora-user-images/image-20190531223740127.png)
 - /etc/blkid/blkid.tab 에 캐싱된 정보 데이터가 저장되어있음
 
 UUID(Universally Unique Identifier)
