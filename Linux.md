@@ -784,3 +784,30 @@ ALSA
 - 사운드 카드용 자치 드라이버를 제공하기 위한 리눅스 커널의 요소
 - 1998년 Jaroslav Kysela에 의해 시작됨
 - GPL 및 LGPL 라이선스 기반으로 배포
+
+네트워크 프린트 설정 환경
+
+- AppSocket/HP jecDirect
+- LPD/LPR 호스트 또는 프린터
+- Windows Printer vis SAMBA
+- 인터넷 프린터 프로토콜(http)
+- 인터넷 프린터 프로토콜(ipp)
+
+X-Windows 환경에서 프린터 설정
+
+- 주메뉴 —> 시스템 설정 —> 인쇄 선택
+- system —> config —> printer
+
+GNOME
+
+- 응용 프로그램 : nautilus, totem, evolution
+- 윈도우 매니저
+  - GNOME 2 : mutter
+  - GNOME 3 : metacity
+
+KDE
+
+- 응용 프로그램 : konqueror
+- 윈도우 매니저
+  - KWin
+  - KWM
